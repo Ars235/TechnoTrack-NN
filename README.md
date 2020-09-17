@@ -1,2 +1,3 @@
 # TechnoTrack-NN
 Mail.ru &amp; MIPT Neural Networks course
+### FIRST TASK COMING VERY SOON...
